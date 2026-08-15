@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+5FU.sdf
+5FU.pdbqt
+*.pdbqt
+docking_*_out.pdbqt
+docking_*_log.txt
+*_clean.pdbqt
